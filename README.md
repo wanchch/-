@@ -1,3 +1,3 @@
 MedicalKG_and_LLM_QA文件中是融合大语言模型和知识图谱的问答系统实现代码，其中key.txt文件存储你的GPT的API。问答系统运行编译run.py文件即可。
 
-MedicalKG_and_P_QA文件存储了网页爬虫的代码，以及基于模板匹配的问答系统实现代码。
+MedicalKG_and_P_QA文件存储了网页爬虫的代码，知识图谱的构建代码以及基于模板匹配的问答系统实现代码。
